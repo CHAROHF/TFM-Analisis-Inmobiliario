@@ -1,0 +1,6 @@
+﻿Variable,Tipo,Valores no nulos,Valores distintos,Valores nulos,Porcentaje de nulos (%)
+detailedType/subTypology,str,10126,14,45527,81.81
+luxuryVisibility,str,7734,1,47919,86.1
+neighborhood,str,54298,538,1355,2.43
+status,str,55335,3,318,0.57
+description,str,55346,50564,307,0.55

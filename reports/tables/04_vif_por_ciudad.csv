@@ -1,0 +1,278 @@
+Ciudad,Modelo,Variable,VIF
+A Coruña,Base,size,2.6417693145519823
+A Coruña,Base,rooms,1.6097399008975797
+A Coruña,Base,bathrooms,2.3498878222403654
+A Coruña,Base,hasLift,1.2885309798005515
+A Coruña,Base,hasTerrace,1.2066612833532848
+A Coruña,Base,hasSwimmingPool,1.2775246754936158
+A Coruña,Base,hasGarden,1.2068900826508862
+A Coruña,Base,hasParking,1.3153001699737377
+A Coruña,Base,newDevelopment,1.2772929055477766
+A Coruña,Base,exterior,1.0402152394482855
+A Coruña,Ampliado,size,4.283712819406896
+A Coruña,Ampliado,rooms,1.8151550152283773
+A Coruña,Ampliado,bathrooms,2.5225662483137348
+A Coruña,Ampliado,hasLift,1.435008707878453
+A Coruña,Ampliado,hasTerrace,1.2554257666517104
+A Coruña,Ampliado,hasSwimmingPool,1.28607079075793
+A Coruña,Ampliado,hasGarden,1.2140941102017118
+A Coruña,Ampliado,hasParking,1.6741939178921947
+A Coruña,Ampliado,newDevelopment,1.343895846716725
+A Coruña,Ampliado,exterior,1.0488946548092488
+A Coruña,Ampliado,size_sq,1.8989663566633017
+A Coruña,Ampliado,floor_num,1.128302838658445
+A Coruña,Ampliado,status_renew,1.1296811318779278
+A Coruña,Ampliado,dist_center_km,1.2513414360010318
+A Coruña,Ampliado,hasAirConditioning,1.0511761487718176
+A Coruña,Ampliado,hasBoxRoom,1.5892024716949475
+A Coruña,Ampliado,floor_missing,1.0542260720065606
+A Coruña,Ampliado,status_missing,1.046276472034978
+Alicante,Base,size,2.151892922713073
+Alicante,Base,rooms,1.6455832828841053
+Alicante,Base,bathrooms,1.7913329009619174
+Alicante,Base,hasLift,1.3374953333990285
+Alicante,Base,hasTerrace,1.2060704501895232
+Alicante,Base,hasSwimmingPool,2.1974229055088363
+Alicante,Base,hasGarden,1.8336405679751497
+Alicante,Base,hasParking,1.6193926655543078
+Alicante,Base,newDevelopment,1.1466438006256658
+Alicante,Base,exterior,1.0126426937699327
+Alicante,Ampliado,size,3.1496962842800307
+Alicante,Ampliado,rooms,1.7013959889969381
+Alicante,Ampliado,bathrooms,1.8346834672168106
+Alicante,Ampliado,hasLift,1.4203541352381592
+Alicante,Ampliado,hasTerrace,1.2297630363877754
+Alicante,Ampliado,hasSwimmingPool,2.5427073561798923
+Alicante,Ampliado,hasGarden,1.9575979535542243
+Alicante,Ampliado,hasParking,1.8360871195899413
+Alicante,Ampliado,newDevelopment,1.359804157299735
+Alicante,Ampliado,exterior,1.016356993977257
+Alicante,Ampliado,size_sq,1.6163074135352642
+Alicante,Ampliado,floor_num,1.1454482311881027
+Alicante,Ampliado,status_renew,1.0514852869001121
+Alicante,Ampliado,dist_center_km,1.9075040424662535
+Alicante,Ampliado,hasAirConditioning,1.103941252275061
+Alicante,Ampliado,hasBoxRoom,1.3693570966272839
+Alicante,Ampliado,floor_missing,1.0191875775473984
+Alicante,Ampliado,status_missing,1.1696389819450712
+Avila,Base,size,2.5704294966577943
+Avila,Base,rooms,1.7319551734306382
+Avila,Base,bathrooms,2.426492234679692
+Avila,Base,hasLift,1.4415994248487034
+Avila,Base,hasTerrace,1.1160637905642758
+Avila,Base,hasSwimmingPool,1.5039271235469478
+Avila,Base,hasGarden,1.3894704227723627
+Avila,Base,hasParking,1.6106020160675747
+Avila,Base,exterior,1.1312626304502595
+Avila,Ampliado,size,3.4700545551848947
+Avila,Ampliado,rooms,1.9319673483211979
+Avila,Ampliado,bathrooms,2.6806100833547717
+Avila,Ampliado,hasLift,1.5736977935931171
+Avila,Ampliado,hasTerrace,1.1667640284220926
+Avila,Ampliado,hasSwimmingPool,1.663175705777809
+Avila,Ampliado,hasGarden,1.4861857410360646
+Avila,Ampliado,hasParking,1.9250902259237836
+Avila,Ampliado,exterior,1.256335728373752
+Avila,Ampliado,size_sq,1.5606758356887669
+Avila,Ampliado,floor_num,1.324932234267033
+Avila,Ampliado,status_renew,1.2323604107869106
+Avila,Ampliado,dist_center_km,1.4093534588779884
+Avila,Ampliado,hasAirConditioning,1.1934635469936106
+Avila,Ampliado,hasBoxRoom,1.6587842887816524
+Avila,Ampliado,floor_missing,1.057698193992881
+Barcelona,Base,size,2.892883573151356
+Barcelona,Base,rooms,1.6266284437292986
+Barcelona,Base,bathrooms,2.3226312307118175
+Barcelona,Base,hasLift,1.1178564800068413
+Barcelona,Base,hasTerrace,1.171390538217763
+Barcelona,Base,hasSwimmingPool,1.4801785281030007
+Barcelona,Base,hasGarden,1.3050638084346429
+Barcelona,Base,hasParking,1.2540730351853333
+Barcelona,Base,newDevelopment,1.1564488220861466
+Barcelona,Base,exterior,1.0205170686133356
+Barcelona,Ampliado,size,5.197593876213231
+Barcelona,Ampliado,rooms,1.8721763248610888
+Barcelona,Ampliado,bathrooms,2.4775315185803892
+Barcelona,Ampliado,hasLift,1.2294943516292798
+Barcelona,Ampliado,hasTerrace,1.190653381052925
+Barcelona,Ampliado,hasSwimmingPool,1.5840103166779882
+Barcelona,Ampliado,hasGarden,1.321983400183032
+Barcelona,Ampliado,hasParking,1.348337241628799
+Barcelona,Ampliado,newDevelopment,1.228375527081845
+Barcelona,Ampliado,exterior,1.0300548773156928
+Barcelona,Ampliado,size_sq,2.3608217826870193
+Barcelona,Ampliado,floor_num,1.1306043460852293
+Barcelona,Ampliado,status_renew,1.0986814567269687
+Barcelona,Ampliado,dist_center_km,1.2165688815495581
+Barcelona,Ampliado,hasAirConditioning,1.2220811634972069
+Barcelona,Ampliado,hasBoxRoom,1.2351453997455455
+Barcelona,Ampliado,floor_missing,1.0196219031739528
+Barcelona,Ampliado,status_missing,1.0814729592050816
+Las Palmas,Base,size,2.372240359875905
+Las Palmas,Base,rooms,1.9670475796653946
+Las Palmas,Base,bathrooms,1.9357837547092158
+Las Palmas,Base,hasLift,1.2114767700065818
+Las Palmas,Base,hasTerrace,1.1811491453379952
+Las Palmas,Base,hasSwimmingPool,1.739300917596886
+Las Palmas,Base,hasGarden,1.5243168899386508
+Las Palmas,Base,hasParking,1.442352654768577
+Las Palmas,Base,newDevelopment,1.2620367143704059
+Las Palmas,Base,exterior,1.0571217809189715
+Las Palmas,Ampliado,size,3.5025966357732905
+Las Palmas,Ampliado,rooms,2.134987088658575
+Las Palmas,Ampliado,bathrooms,2.0287102400027317
+Las Palmas,Ampliado,hasLift,1.3706930199544218
+Las Palmas,Ampliado,hasTerrace,1.2256007015780082
+Las Palmas,Ampliado,hasSwimmingPool,1.919695528861536
+Las Palmas,Ampliado,hasGarden,1.5915047177214345
+Las Palmas,Ampliado,hasParking,1.5704934935996377
+Las Palmas,Ampliado,newDevelopment,1.4998506714031055
+Las Palmas,Ampliado,exterior,1.0938503532653268
+Las Palmas,Ampliado,size_sq,1.8097988544047106
+Las Palmas,Ampliado,floor_num,1.1615065243482405
+Las Palmas,Ampliado,status_renew,1.0869108682001918
+Las Palmas,Ampliado,dist_center_km,1.1506116084945686
+Las Palmas,Ampliado,hasAirConditioning,1.1043901352043122
+Las Palmas,Ampliado,hasBoxRoom,1.2710531186351408
+Las Palmas,Ampliado,floor_missing,1.046167408711665
+Las Palmas,Ampliado,status_missing,1.457005372729329
+Madrid,Base,size,3.6600891770561197
+Madrid,Base,rooms,1.803532085949159
+Madrid,Base,bathrooms,2.9575911936504893
+Madrid,Base,hasLift,1.217759929980822
+Madrid,Base,hasTerrace,1.0933353658823743
+Madrid,Base,hasSwimmingPool,2.017759583418274
+Madrid,Base,hasGarden,1.5795023784615132
+Madrid,Base,hasParking,1.6476995593010446
+Madrid,Base,newDevelopment,1.3595195473467383
+Madrid,Base,exterior,1.0848201490813918
+Madrid,Ampliado,size,7.049804149516436
+Madrid,Ampliado,rooms,2.1171305616293417
+Madrid,Ampliado,bathrooms,3.145103936282044
+Madrid,Ampliado,hasLift,1.342565387878719
+Madrid,Ampliado,hasTerrace,1.1464387717469628
+Madrid,Ampliado,hasSwimmingPool,2.1902324895704863
+Madrid,Ampliado,hasGarden,1.6176169469501143
+Madrid,Ampliado,hasParking,1.7677421120026329
+Madrid,Ampliado,newDevelopment,1.6008769656389314
+Madrid,Ampliado,exterior,1.157227115241099
+Madrid,Ampliado,size_sq,2.6158949766677058
+Madrid,Ampliado,floor_num,1.0918483124089833
+Madrid,Ampliado,status_renew,1.1349366933882965
+Madrid,Ampliado,dist_center_km,1.7175901364903847
+Madrid,Ampliado,hasAirConditioning,1.253100922191513
+Madrid,Ampliado,hasBoxRoom,1.4164445174343465
+Madrid,Ampliado,floor_missing,1.025550879637885
+Madrid,Ampliado,status_missing,1.1016967730286589
+Malaga,Base,size,2.622637878553952
+Malaga,Base,rooms,1.7302374515153576
+Malaga,Base,bathrooms,2.1627177115017435
+Malaga,Base,hasLift,1.0969467299637572
+Malaga,Base,hasTerrace,1.1780137367851566
+Malaga,Base,hasSwimmingPool,1.9375369615981524
+Malaga,Base,hasGarden,1.431080077816028
+Malaga,Base,hasParking,1.476394673119746
+Malaga,Base,newDevelopment,1.3707463742354693
+Malaga,Base,exterior,1.0136915710254089
+Malaga,Ampliado,size,4.532571389063814
+Malaga,Ampliado,rooms,2.059850521516733
+Malaga,Ampliado,bathrooms,2.2354044488738567
+Malaga,Ampliado,hasLift,1.1912100996752097
+Malaga,Ampliado,hasTerrace,1.2161195886778577
+Malaga,Ampliado,hasSwimmingPool,2.1221997119533684
+Malaga,Ampliado,hasGarden,1.5078790728297733
+Malaga,Ampliado,hasParking,1.7136527733067646
+Malaga,Ampliado,newDevelopment,1.7074158694964376
+Malaga,Ampliado,exterior,1.018579704792506
+Malaga,Ampliado,size_sq,2.1265832562878213
+Malaga,Ampliado,floor_num,1.1100885741180984
+Malaga,Ampliado,status_renew,1.0921972742692154
+Malaga,Ampliado,dist_center_km,1.6056141962161101
+Malaga,Ampliado,hasAirConditioning,1.1196619797584653
+Malaga,Ampliado,hasBoxRoom,1.5677442193408104
+Malaga,Ampliado,floor_missing,1.0338492729444344
+Malaga,Ampliado,status_missing,1.170722088769356
+Sevilla,Base,size,3.109117044425461
+Sevilla,Base,rooms,1.936702147360196
+Sevilla,Base,bathrooms,2.441511129635927
+Sevilla,Base,hasLift,1.3275821679850952
+Sevilla,Base,hasTerrace,1.1771968471337537
+Sevilla,Base,hasSwimmingPool,1.875061650898558
+Sevilla,Base,hasGarden,1.3148788225560908
+Sevilla,Base,hasParking,1.5170847792862714
+Sevilla,Base,newDevelopment,1.509764950628139
+Sevilla,Base,exterior,1.0364372749887905
+Sevilla,Ampliado,size,4.702319887334144
+Sevilla,Ampliado,rooms,2.083461672572886
+Sevilla,Ampliado,bathrooms,2.4643871542770373
+Sevilla,Ampliado,hasLift,1.43651358985677
+Sevilla,Ampliado,hasTerrace,1.2469406617933474
+Sevilla,Ampliado,hasSwimmingPool,1.9655591410474182
+Sevilla,Ampliado,hasGarden,1.329227110064755
+Sevilla,Ampliado,hasParking,1.6851382515650966
+Sevilla,Ampliado,newDevelopment,1.630558840319107
+Sevilla,Ampliado,exterior,1.0525767911143893
+Sevilla,Ampliado,size_sq,1.8488187912571736
+Sevilla,Ampliado,floor_num,1.1397192594952534
+Sevilla,Ampliado,status_renew,1.0995373735079197
+Sevilla,Ampliado,dist_center_km,1.174173106854668
+Sevilla,Ampliado,hasAirConditioning,1.2011560581191392
+Sevilla,Ampliado,hasBoxRoom,1.369248302382143
+Sevilla,Ampliado,floor_missing,1.1141806406999688
+Sevilla,Ampliado,status_missing,1.049582251959138
+Valencia,Base,size,2.5784046932873825
+Valencia,Base,rooms,1.5301337421700418
+Valencia,Base,bathrooms,2.1271295238702685
+Valencia,Base,hasLift,1.174438347535202
+Valencia,Base,hasTerrace,1.125737299433162
+Valencia,Base,hasSwimmingPool,1.6919124909188494
+Valencia,Base,hasGarden,1.4134248962700482
+Valencia,Base,hasParking,1.3029361456447117
+Valencia,Base,newDevelopment,1.2246857521481271
+Valencia,Base,exterior,1.030511187656781
+Valencia,Ampliado,size,4.588045579808079
+Valencia,Ampliado,rooms,1.767577727066114
+Valencia,Ampliado,bathrooms,2.1793097539649158
+Valencia,Ampliado,hasLift,1.3078431600974003
+Valencia,Ampliado,hasTerrace,1.177929746882857
+Valencia,Ampliado,hasSwimmingPool,1.7849636571866243
+Valencia,Ampliado,hasGarden,1.4254174350125157
+Valencia,Ampliado,hasParking,1.3886349457748524
+Valencia,Ampliado,newDevelopment,1.3465905356516674
+Valencia,Ampliado,exterior,1.0438528955812683
+Valencia,Ampliado,size_sq,2.1212816692111027
+Valencia,Ampliado,floor_num,1.150843732794085
+Valencia,Ampliado,status_renew,1.0897038350304857
+Valencia,Ampliado,dist_center_km,1.2128179304140814
+Valencia,Ampliado,hasAirConditioning,1.1782592061150028
+Valencia,Ampliado,hasBoxRoom,1.1725185882937696
+Valencia,Ampliado,floor_missing,1.0202819803051653
+Valencia,Ampliado,status_missing,1.109881008339874
+Zaragoza,Base,size,2.9316821594866345
+Zaragoza,Base,rooms,1.7962687083795148
+Zaragoza,Base,bathrooms,2.499394646352268
+Zaragoza,Base,hasLift,1.288192540455731
+Zaragoza,Base,hasTerrace,1.30830174849709
+Zaragoza,Base,hasSwimmingPool,2.444646666726769
+Zaragoza,Base,hasGarden,1.4476863006346383
+Zaragoza,Base,hasParking,1.3563557459975506
+Zaragoza,Base,newDevelopment,2.1014783887076693
+Zaragoza,Base,exterior,1.0710555840887386
+Zaragoza,Ampliado,size,5.190709462421773
+Zaragoza,Ampliado,rooms,2.0183891941198913
+Zaragoza,Ampliado,bathrooms,2.550342172468212
+Zaragoza,Ampliado,hasLift,1.3763154315816786
+Zaragoza,Ampliado,hasTerrace,1.3351868783614593
+Zaragoza,Ampliado,hasSwimmingPool,2.6238998128920255
+Zaragoza,Ampliado,hasGarden,1.4634688048074451
+Zaragoza,Ampliado,hasParking,1.665253088374689
+Zaragoza,Ampliado,newDevelopment,2.4672437043580158
+Zaragoza,Ampliado,exterior,1.0814311861812511
+Zaragoza,Ampliado,size_sq,2.250886463465137
+Zaragoza,Ampliado,floor_num,1.128608428359078
+Zaragoza,Ampliado,status_renew,1.1435239103931165
+Zaragoza,Ampliado,dist_center_km,1.3089516811991757
+Zaragoza,Ampliado,hasAirConditioning,1.149410743474864
+Zaragoza,Ampliado,hasBoxRoom,1.5286849052046385
+Zaragoza,Ampliado,floor_missing,1.0383998719300518
+Zaragoza,Ampliado,status_missing,1.1238198537056325

@@ -1,0 +1,9 @@
+﻿Variable,Tipo,Valores no nulos,Valores nulos,Porcentaje de nulos (%)
+features/hasGarden,object,51325,4328,7.78
+features/hasTerrace,object,51766,3887,6.98
+features/hasSwimmingPool,object,52095,3558,6.39
+features/hasBoxRoom,object,52641,3012,5.41
+features/hasAirConditioning,object,54762,891,1.6
+floor,str,48270,7383,13.27
+hasLift,object,50702,4951,8.9
+exterior,object,48730,6923,12.44

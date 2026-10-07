@@ -1,0 +1,51 @@
+Ciudad,Variable,Importancia_RF
+A Coruña,size,0.3821
+A Coruña,bathrooms,0.1976
+A Coruña,dist_center_km,0.1273
+A Coruña,size_sq,0.0939
+A Coruña,floor_num,0.0512
+Alicante,bathrooms,0.362
+Alicante,dist_center_km,0.2638
+Alicante,size,0.1606
+Alicante,hasSwimmingPool,0.045
+Alicante,floor_num,0.0434
+Avila,size,0.4946
+Avila,dist_center_km,0.1103
+Avila,hasLift,0.0917
+Avila,size_sq,0.0691
+Avila,bathrooms,0.0598
+Barcelona,size,0.557
+Barcelona,size_sq,0.1283
+Barcelona,dist_center_km,0.1176
+Barcelona,bathrooms,0.0662
+Barcelona,floor_num,0.0316
+Las Palmas,dist_center_km,0.2954
+Las Palmas,size,0.1844
+Las Palmas,bathrooms,0.1826
+Las Palmas,hasLift,0.0751
+Las Palmas,size_sq,0.0706
+Madrid,size,0.5882
+Madrid,dist_center_km,0.1699
+Madrid,size_sq,0.1022
+Madrid,bathrooms,0.0392
+Madrid,hasLift,0.0243
+Malaga,bathrooms,0.4201
+Malaga,size,0.1934
+Malaga,dist_center_km,0.1466
+Malaga,size_sq,0.0536
+Malaga,floor_num,0.0469
+Sevilla,size,0.4174
+Sevilla,dist_center_km,0.2811
+Sevilla,size_sq,0.0756
+Sevilla,hasLift,0.0755
+Sevilla,bathrooms,0.0453
+Valencia,size,0.4976
+Valencia,dist_center_km,0.1758
+Valencia,bathrooms,0.0831
+Valencia,size_sq,0.0784
+Valencia,floor_num,0.0386
+Zaragoza,bathrooms,0.4093
+Zaragoza,size,0.2036
+Zaragoza,hasLift,0.1127
+Zaragoza,dist_center_km,0.0807
+Zaragoza,size_sq,0.0679
