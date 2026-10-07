@@ -243,6 +243,6 @@ Los datos originales no se incluyen en el repositorio. La estructura `data/` se 
 
 ---
 
-### Trabajo Fin de Máster · Big Data y Ciencia de Datos
+### Trabajo Fin de Máster · Big Data y Ciencia de Datos VIU
 
 Repositorio preparado para documentar de forma reproducible el código, las tablas y las figuras utilizadas en la versión final del proyecto.
