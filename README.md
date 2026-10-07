@@ -200,23 +200,45 @@ Los principales resultados de validación fuera de muestra y comparación predic
 
 ---
 
-## ▶️ Reproducción
+## ⚙️ Instalación y reproducción
 
-1. Clonar o descargar el repositorio.
-2. Crear un entorno de Python.
-3. Instalar las dependencias indicadas en `requirements.txt`.
-4. Incorporar los datos de entrada correspondientes en `data/raw/`.
-5. Ejecutar los notebooks **01 → 02 → 03 → 04** en ese orden.
+Para ejecutar el proyecto se recomienda crear un entorno virtual e instalar las dependencias incluidas en `requirements.txt`.
 
-Ejemplo de instalación:
+### Windows
 
 ```bash
+git clone https://github.com/CHAROHF/TFM-Analisis-Inmobiliario.git
+cd TFM-Analisis-Inmobiliario
+python -m venv .venv
+.venv\Scripts\activate
 pip install -r requirements.txt
+jupyter notebook
 ```
 
-Los notebooks utilizan rutas relativas al proyecto para facilitar la portabilidad entre equipos.
+### Linux / macOS
 
----
+```bash
+git clone https://github.com/CHAROHF/TFM-Analisis-Inmobiliario.git
+cd TFM-Analisis-Inmobiliario
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+jupyter notebook
+```
+
+### Orden de ejecución
+
+Una vez preparado el entorno, los notebooks deben ejecutarse en el siguiente orden:
+
+1. `01_Seleccion_datos.ipynb`
+2. `02_Preprocesamiento_transformacion.ipynb`
+3. `03_Analisis_exploratorio_de_los_datos.ipynb`
+4. `04_Modelizacion_regresiones_por_ciudad_zscore_train_test_random_forest_FINAL.ipynb`
+
+Los notebooks utilizan rutas relativas al proyecto para facilitar su ejecución en distintos equipos.
+
+> **Nota sobre los datos:** los datos originales no se distribuyen en este repositorio. Para reproducir el flujo completo es necesario disponer de los archivos de entrada y situarlos en `data/raw/`, siguiendo las indicaciones de `data/README.md`. Los resultados agregados utilizados en el TFM se conservan en `reports/`.
+
 
 ## 🧰 Tecnologías principales
 
