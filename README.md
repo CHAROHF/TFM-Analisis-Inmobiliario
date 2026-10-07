@@ -242,8 +242,13 @@ Los notebooks utilizan rutas relativas al proyecto para facilitar su ejecución 
 
 ## 🧰 Tecnologías principales
 
-`Python` · `Jupyter Notebook` · `pandas` · `NumPy` · `statsmodels` · `scikit-learn` · `Matplotlib` · `seaborn`
-
+- **Python 3**
+- **Jupyter Notebook**
+- **pandas** y **NumPy** — tratamiento y transformación de datos
+- **Matplotlib** y **Seaborn** — visualización de datos
+- **statsmodels** — estimación de modelos OLS, errores robustos HC3 y diagnósticos estadísticos
+- **scikit-learn** — partición train/test, métricas de evaluación y modelos Random Forest
+- **openpyxl** — lectura y tratamiento de archivos Excel
 ---
 
 ## ⚠️ Alcance e interpretación
